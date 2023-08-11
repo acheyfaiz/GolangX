@@ -1,4 +1,4 @@
 # GolangX
 
-## 1) install Go
-## 2) install gorm
+### 1) install Go
+### 2) install gorm
